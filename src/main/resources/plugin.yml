@@ -1,0 +1,6 @@
+name: Wooden_Armor
+version: ${project.version}
+main: me.noob.minecraft.wooden_armor.Wooden_Armor
+api-version: 1.16
+authors: [ noobplayer77777 ]
+description: Wooden Armor
